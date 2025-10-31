@@ -20,8 +20,7 @@
 
 ## 📦 安装方法
 
-### 方法一：从 GreasyFork 安装（推荐）
-> （发布后可填写真实链接）  
+### 方法一：从 GreasyFork 安装（推荐） 
 [👉 点击这里安装脚本](https://greasyfork.org/zh-CN/scripts/554316-southplus-%E5%8D%97%E5%8A%A0%E5%9F%9F%E5%90%8D%E8%B7%B3%E8%BD%AC-%E7%AE%80%E5%8D%95-%E6%9C%89%E6%95%88)
 
 ### 方法二：手动安装
